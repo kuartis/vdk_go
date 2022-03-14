@@ -9,6 +9,7 @@ import (
 	"encoding/hex"
 	"fmt"
 	"io"
+
 	//"log"
 	"net"
 	"net/textproto"
@@ -17,13 +18,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/deepch/vdk/av"
-	"github.com/deepch/vdk/av/avutil"
-	"github.com/deepch/vdk/codec"
-	"github.com/deepch/vdk/codec/aacparser"
-	"github.com/deepch/vdk/codec/h264parser"
-	"github.com/deepch/vdk/format/rtsp/sdp"
-	"github.com/deepch/vdk/utils/bits/pio"
+	"github.com/kuartis/deepch_kua/av"
+	"github.com/kuartis/deepch_kua/av/avutil"
+	"github.com/kuartis/deepch_kua/codec"
+	"github.com/kuartis/deepch_kua/codec/aacparser"
+	"github.com/kuartis/deepch_kua/codec/h264parser"
+	"github.com/kuartis/deepch_kua/format/rtsp/sdp"
+	"github.com/kuartis/deepch_kua/utils/bits/pio"
 )
 
 var ErrCodecDataChange = fmt.Errorf("rtsp: codec data change, please call HandleCodecDataChange()")

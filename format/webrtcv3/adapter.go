@@ -10,8 +10,8 @@ import (
 	"github.com/pion/interceptor"
 	"github.com/pion/webrtc/v3"
 
-	"github.com/deepch/vdk/av"
-	"github.com/deepch/vdk/codec/h264parser"
+	"github.com/kuartis/deepch_kua/av"
+	"github.com/kuartis/deepch_kua/codec/h264parser"
 	"github.com/pion/webrtc/v3/pkg/media"
 )
 

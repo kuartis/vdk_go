@@ -4,7 +4,7 @@ package pktque
 import (
 	"time"
 
-	"github.com/deepch/vdk/av"
+	"github.com/kuartis/deepch_kua/av"
 )
 
 type Filter interface {

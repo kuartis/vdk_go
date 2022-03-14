@@ -1,7 +1,7 @@
 package fake
 
 import (
-	"github.com/deepch/vdk/av"
+	"github.com/kuartis/deepch_kua/av"
 )
 
 type CodecData struct {

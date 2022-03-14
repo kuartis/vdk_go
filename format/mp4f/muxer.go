@@ -6,14 +6,14 @@ import (
 	"os"
 	"time"
 
-	"github.com/deepch/vdk/av"
-	"github.com/deepch/vdk/codec/aacparser"
-	"github.com/deepch/vdk/codec/h264parser"
-	"github.com/deepch/vdk/codec/h265parser"
-	"github.com/deepch/vdk/format/fmp4/fmp4io"
-	"github.com/deepch/vdk/format/mp4/mp4io"
-	"github.com/deepch/vdk/format/mp4f/mp4fio"
-	"github.com/deepch/vdk/utils/bits/pio"
+	"github.com/kuartis/deepch_kua/av"
+	"github.com/kuartis/deepch_kua/codec/aacparser"
+	"github.com/kuartis/deepch_kua/codec/h264parser"
+	"github.com/kuartis/deepch_kua/codec/h265parser"
+	"github.com/kuartis/deepch_kua/format/fmp4/fmp4io"
+	"github.com/kuartis/deepch_kua/format/mp4/mp4io"
+	"github.com/kuartis/deepch_kua/format/mp4f/mp4fio"
+	"github.com/kuartis/deepch_kua/utils/bits/pio"
 )
 
 type Muxer struct {

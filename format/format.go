@@ -1,13 +1,13 @@
 package format
 
 import (
-	"github.com/deepch/vdk/av/avutil"
-	"github.com/deepch/vdk/format/aac"
-	"github.com/deepch/vdk/format/flv"
-	"github.com/deepch/vdk/format/mp4"
-	"github.com/deepch/vdk/format/rtmp"
-	"github.com/deepch/vdk/format/rtsp"
-	"github.com/deepch/vdk/format/ts"
+	"github.com/kuartis/deepch_kua/av/avutil"
+	"github.com/kuartis/deepch_kua/format/aac"
+	"github.com/kuartis/deepch_kua/format/flv"
+	"github.com/kuartis/deepch_kua/format/mp4"
+	"github.com/kuartis/deepch_kua/format/rtmp"
+	"github.com/kuartis/deepch_kua/format/rtsp"
+	"github.com/kuartis/deepch_kua/format/ts"
 )
 
 func RegisterAll() {
