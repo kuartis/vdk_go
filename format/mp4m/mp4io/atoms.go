@@ -3,7 +3,7 @@ package mp4io
 import (
 	"time"
 
-	"github.com/kuartis/deepch_kua/utils/bits/pio"
+	"github.com/kuartis/deepch_mas/utils/bits/pio"
 )
 
 const MOOF = Tag(0x6d6f6f66)

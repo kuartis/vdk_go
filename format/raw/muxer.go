@@ -4,11 +4,11 @@ import (
 	"bytes"
 	"os"
 
-	"github.com/kuartis/deepch_kua/codec/h265parser"
+	"github.com/kuartis/deepch_mas/codec/h265parser"
 
-	"github.com/kuartis/deepch_kua/codec/h264parser"
+	"github.com/kuartis/deepch_mas/codec/h264parser"
 
-	"github.com/kuartis/deepch_kua/av"
+	"github.com/kuartis/deepch_mas/av"
 )
 
 var startCode = []byte{0, 0, 0, 1}

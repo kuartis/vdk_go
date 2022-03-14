@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/utils/bits"
-	"github.com/kuartis/deepch_kua/utils/bits/pio"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/utils/bits"
+	"github.com/kuartis/deepch_mas/utils/bits/pio"
 )
 
 const (

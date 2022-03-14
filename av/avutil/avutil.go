@@ -9,7 +9,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/kuartis/deepch_kua/av"
+	"github.com/kuartis/deepch_mas/av"
 )
 
 type HandlerDemuxer struct {

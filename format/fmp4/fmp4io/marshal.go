@@ -4,7 +4,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/kuartis/deepch_kua/utils/bits/pio"
+	"github.com/kuartis/deepch_mas/utils/bits/pio"
 )
 
 func GetTime32(b []byte) (t time.Time) {

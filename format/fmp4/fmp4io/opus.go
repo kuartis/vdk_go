@@ -1,7 +1,7 @@
 package fmp4io
 
 import (
-	"github.com/kuartis/deepch_kua/utils/bits/pio"
+	"github.com/kuartis/deepch_mas/utils/bits/pio"
 )
 
 const (

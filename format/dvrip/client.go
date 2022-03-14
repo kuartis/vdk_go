@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/codec"
-	"github.com/kuartis/deepch_kua/codec/h264parser"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/codec"
+	"github.com/kuartis/deepch_mas/codec/h264parser"
 )
 
 const (

@@ -20,8 +20,8 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/codec/h264parser"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/codec/h264parser"
 )
 
 type VideoDecoder struct {

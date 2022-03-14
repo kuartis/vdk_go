@@ -3,8 +3,8 @@ package ts
 import (
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/format/ts/tsio"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/format/ts/tsio"
 )
 
 type Stream struct {

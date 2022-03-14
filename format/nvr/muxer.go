@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
+	"github.com/kuartis/deepch_mas/av"
 )
 
 type Muxer struct {

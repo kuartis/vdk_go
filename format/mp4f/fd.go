@@ -1,6 +1,6 @@
 package mp4f
 
-import "github.com/kuartis/deepch_kua/format/mp4/mp4io"
+import "github.com/kuartis/deepch_mas/format/mp4/mp4io"
 
 type FDummy struct {
 	Data []byte

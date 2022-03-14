@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
+	"github.com/kuartis/deepch_mas/av"
 )
 
 const (

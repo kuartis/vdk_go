@@ -1,4 +1,4 @@
-module github.com/kuartis/deepch_kua
+module github.com/kuartis/deepch_mas
 
 go 1.15
 

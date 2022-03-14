@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
+	"github.com/kuartis/deepch_mas/av"
 )
 
 type CodecData struct {

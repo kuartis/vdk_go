@@ -3,8 +3,8 @@ package codec
 import (
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/codec/fake"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/codec/fake"
 )
 
 type OpusCodecData struct {

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/av/pktque"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/av/pktque"
 )
 
 var Debug bool

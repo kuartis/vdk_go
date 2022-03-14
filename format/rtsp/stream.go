@@ -3,8 +3,8 @@ package rtsp
 import (
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/format/rtsp/sdp"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/format/rtsp/sdp"
 )
 
 type Stream struct {

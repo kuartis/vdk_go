@@ -5,10 +5,10 @@ import (
 	"io"
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/codec/aacparser"
-	"github.com/kuartis/deepch_kua/codec/h264parser"
-	"github.com/kuartis/deepch_kua/format/ts/tsio"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/codec/aacparser"
+	"github.com/kuartis/deepch_mas/codec/h264parser"
+	"github.com/kuartis/deepch_mas/format/ts/tsio"
 )
 
 var CodecTypes = []av.CodecType{av.H264, av.AAC}

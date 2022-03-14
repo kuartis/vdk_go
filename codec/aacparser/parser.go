@@ -6,8 +6,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/utils/bits"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/utils/bits"
 )
 
 // copied from libavcodec/mpeg4audio.h

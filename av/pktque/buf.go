@@ -1,7 +1,7 @@
 package pktque
 
 import (
-	"github.com/kuartis/deepch_kua/av"
+	"github.com/kuartis/deepch_mas/av"
 )
 
 type Buf struct {

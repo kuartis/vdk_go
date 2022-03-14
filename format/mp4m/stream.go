@@ -3,8 +3,8 @@ package mp4
 import (
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/format/mp4/mp4io"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/format/mp4/mp4io"
 )
 
 type Stream struct {

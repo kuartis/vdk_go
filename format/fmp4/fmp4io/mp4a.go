@@ -1,8 +1,8 @@
 package fmp4io
 
 import (
-	"github.com/kuartis/deepch_kua/format/fmp4/esio"
-	"github.com/kuartis/deepch_kua/utils/bits/pio"
+	"github.com/kuartis/deepch_mas/format/fmp4/esio"
+	"github.com/kuartis/deepch_mas/utils/bits/pio"
 )
 
 const MP4A = Tag(0x6d703461)

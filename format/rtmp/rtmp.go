@@ -14,11 +14,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/av/avutil"
-	"github.com/kuartis/deepch_kua/format/flv"
-	"github.com/kuartis/deepch_kua/format/flv/flvio"
-	"github.com/kuartis/deepch_kua/utils/bits/pio"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/av/avutil"
+	"github.com/kuartis/deepch_mas/format/flv"
+	"github.com/kuartis/deepch_mas/format/flv/flvio"
+	"github.com/kuartis/deepch_mas/utils/bits/pio"
 )
 
 var Debug bool

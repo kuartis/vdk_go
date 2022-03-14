@@ -3,7 +3,7 @@ package mkv
 import (
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
+	"github.com/kuartis/deepch_mas/av"
 )
 
 type Stream struct {

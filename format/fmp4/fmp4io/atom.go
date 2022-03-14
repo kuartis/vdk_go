@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/kuartis/deepch_kua/utils/bits/pio"
+	"github.com/kuartis/deepch_mas/utils/bits/pio"
 )
 
 type Tag uint32

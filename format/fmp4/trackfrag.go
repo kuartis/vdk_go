@@ -3,10 +3,10 @@ package fmp4
 import (
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/codec/h264parser"
-	"github.com/kuartis/deepch_kua/format/fmp4/fmp4io"
-	"github.com/kuartis/deepch_kua/format/fmp4/fragment"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/codec/h264parser"
+	"github.com/kuartis/deepch_mas/format/fmp4/fmp4io"
+	"github.com/kuartis/deepch_mas/format/fmp4/fragment"
 )
 
 // TrackFragmenter writes a single audio or video stream as a series of CMAF (fMP4) fragments

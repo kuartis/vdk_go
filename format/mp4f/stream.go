@@ -3,10 +3,10 @@ package mp4f
 import (
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/format/mp4"
-	"github.com/kuartis/deepch_kua/format/mp4/mp4io"
-	"github.com/kuartis/deepch_kua/format/mp4f/mp4fio"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/format/mp4"
+	"github.com/kuartis/deepch_mas/format/mp4/mp4io"
+	"github.com/kuartis/deepch_mas/format/mp4f/mp4fio"
 )
 
 type Stream struct {

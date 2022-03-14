@@ -3,8 +3,8 @@ package mp4
 import (
 	"io"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/av/avutil"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/av/avutil"
 )
 
 var CodecTypes = []av.CodecType{av.H264, av.AAC}

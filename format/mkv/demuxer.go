@@ -6,9 +6,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/codec/h264parser"
-	"github.com/kuartis/deepch_kua/format/mkv/mkvio"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/codec/h264parser"
+	"github.com/kuartis/deepch_mas/format/mkv/mkvio"
 )
 
 type Demuxer struct {

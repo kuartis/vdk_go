@@ -3,12 +3,12 @@ package fmp4
 import (
 	"fmt"
 
-	"github.com/kuartis/deepch_kua/av"
-	"github.com/kuartis/deepch_kua/codec/aacparser"
-	"github.com/kuartis/deepch_kua/codec/h264parser"
-	"github.com/kuartis/deepch_kua/codec/opusparser"
-	"github.com/kuartis/deepch_kua/format/fmp4/esio"
-	"github.com/kuartis/deepch_kua/format/fmp4/fmp4io"
+	"github.com/kuartis/deepch_mas/av"
+	"github.com/kuartis/deepch_mas/codec/aacparser"
+	"github.com/kuartis/deepch_mas/codec/h264parser"
+	"github.com/kuartis/deepch_mas/codec/opusparser"
+	"github.com/kuartis/deepch_mas/format/fmp4/esio"
+	"github.com/kuartis/deepch_mas/format/fmp4/fmp4io"
 )
 
 // Track creates a TRAK atom for this stream

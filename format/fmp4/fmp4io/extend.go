@@ -1,6 +1,6 @@
 package fmp4io
 
-import "github.com/kuartis/deepch_kua/utils/bits/pio"
+import "github.com/kuartis/deepch_mas/utils/bits/pio"
 
 const MVEX = Tag(0x6d766578)
 
