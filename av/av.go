@@ -248,12 +248,13 @@ type DemuxCloser interface {
 
 // Packet stores compressed audio/video data.
 type Packet struct {
-	IsKeyFrame      bool          // video packet is key frame
-	Idx             int8          // stream index in container format
-	CompositionTime time.Duration // packet presentation time minus decode time for H264 B-Frame
-	Time            time.Duration // packet decode time
-	Duration        time.Duration //packet duration
-	Data            []byte        // packet data
+	IsKeyFrame       bool          // video packet is key frame
+	Idx              int8          // stream index in container format
+	CompositionTime  time.Duration // packet presentation time minus decode time for H264 B-Frame
+	Time             time.Duration // packet decode time
+	Duration         time.Duration //packet duration
+	PackageTimestamp uint32
+	Data             []byte // packet data
 }
 
 // Raw audio frame.
